@@ -13,11 +13,11 @@ This project delves into a comprehensive analysis of bike buyer data, aiming to 
 * Interactive pivot tables summarizing key demographic information (e.g., income, commute distance) and purchasing behavior.
 * Easily customizable to focus on specific aspects of the dataset.
   
-**Interactive Visualizations for Data-Driven Insights: **
+**Interactive Visualizations for Data-Driven Insights:**
 * Clustered column charts comparing average income per purchase across different genders.
 * Line charts illustrating the relationship between age, commute distance, and likelihood of bike purchase.
   
-** Slicers for Personalized Analysis:**
+**Slicers for Personalized Analysis:**
  
 * Filter the data by marital status, region, and education level to pinpoint trends within specific demographic groups.
 Insights and Applications
